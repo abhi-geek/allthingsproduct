@@ -17,6 +17,10 @@ body {
   color: #009cea;
 }
 
+.footer-logo{
+  margin-left: 170px;
+}
+
 a {
   color: #009cea;
   text-decoration: none;
